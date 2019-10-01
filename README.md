@@ -1,2 +1,2 @@
 # Laboratorio-de-Linguagem-de-Programacao
-Exercícios de Estrutura Sequencial
+Laboratório de Linguagem de Programação
